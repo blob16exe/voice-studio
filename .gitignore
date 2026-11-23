@@ -1,0 +1,4 @@
+models/kokoro-en-v0_19/model.onnx
+__pycache__/
+output/*
+!output/.keep
